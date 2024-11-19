@@ -1,4 +1,4 @@
-package Aplicativo_de_Notas_e_Media;
+package Notas_e_Media;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

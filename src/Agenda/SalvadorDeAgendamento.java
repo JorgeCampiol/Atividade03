@@ -1,4 +1,4 @@
-package AgendaDiaria;
+package Agenda;
 
 import java.util.ArrayList;
 import java.util.List;

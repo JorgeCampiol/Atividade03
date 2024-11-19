@@ -1,7 +1,6 @@
-package Atividade_1_Calculadora;
+package Calculadora;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

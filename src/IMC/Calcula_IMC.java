@@ -1,6 +1,4 @@
-package Calculadora_IMC;
-
-import java.util.Locale;
+package IMC;
 
 public class Calcula_IMC {
 

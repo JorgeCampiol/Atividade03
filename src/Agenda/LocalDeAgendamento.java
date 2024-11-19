@@ -1,4 +1,4 @@
-package AgendaDiaria;
+package Agenda;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
